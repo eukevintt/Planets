@@ -1,0 +1,11 @@
+body{
+    color: white;
+    background-color: rgb(29, 28, 28);
+}
+
+.bg-planets{
+    background-color: rgb(49, 49, 49);
+}
+p{
+    float: initial;
+}
